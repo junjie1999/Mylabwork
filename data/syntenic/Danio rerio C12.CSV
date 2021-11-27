@@ -1,0 +1,1093 @@
+"Genes, NCBI Danio rerio Annotation Release 106, 2017-06-26"
+Accession,Start,Stop,Gene symbol,Strand,NCBI Gene ID,Name
+NC_007123.7,9059,11570,shisa6,minus,796884,shisa family member 6
+NC_007123.7,32369,42214,foxk2,minus,324141,forkhead box K2
+NC_007123.7,40351,46985,wdr45b,minus,393210,WD repeat domain 45B
+NC_007123.7,47082,47154,trnar-ccu,plus,108191806,
+NC_007123.7,47439,49920,ict1,plus,100149182,immature colon carcinoma transcript 1
+NC_007123.7,49937,54599,si:ch1073-357b18.4,minus,797129,si:ch1073-357b18.4
+NC_007123.7,50139,50210,trnam-cau,minus,108191923,
+NC_007123.7,50384,50456,trnar-ucg,minus,108191812,
+NC_007123.7,63920,66225,LOC100331510,minus,100331510,
+NC_007123.7,137149,145076,dnah9,minus,266676,"dynein, axonemal, heavy chain 9"
+NC_007123.7,149211,179064,myocd,minus,100331725,
+NC_007123.7,171286,175625,LOC101885908,minus,101885908,
+NC_007123.7,197622,201707,gas7b,plus,100333627,
+NC_007123.7,203608,232923,LOC100333572,minus,100333572,
+NC_007123.7,213604,214333,LOC103910607,minus,103910607,
+NC_007123.7,280137,287821,map2k4b,minus,568951,mitogen-activated protein kinase kinase 4b
+NC_007123.7,288105,291317,adprm,minus,393393,"ADP-ribose/CDP-alcohol diphosphatase, manganese-dependent"
+NC_007123.7,293875,299638,LOC100535838,plus,100535838,
+NC_007123.7,300534,310890,LOC108191687,minus,108191687,
+NC_007123.7,311947,314992,pts,minus,100073330,6-pyruvoyltetrahydropterin synthase
+NC_007123.7,316238,319392,rcvrnb,plus,792903,recoverin b
+NC_007123.7,321387,334986,glp2r,minus,101885514,
+NC_007123.7,390012,408659,gsg1l2b,plus,100002460,
+NC_007123.7,415804,431149,hs3st3l,minus,100008592,heparan sulfate (glucosamine) 3-O-sulfotransferase 3-like
+NC_007123.7,452891,464066,dhrs7cb,minus,553684,dehydrogenase/reductase (SDR family) member 7Cb
+NC_007123.7,465645,528026,mprip,plus,558831,
+NC_007123.7,531929,540953,si:dkey-94l16.4,plus,101885814,
+NC_007123.7,549600,558259,bsk146,minus,405767,brain specific kinase 146
+NC_007123.7,560509,628491,wu:fj29h11,minus,335618,
+NC_007123.7,630295,645972,sult2st1,minus,338214,"sulfotransferase family 2, cytosolic sulfotransferase 1"
+NC_007123.7,638361,639950,LOC108191688,plus,108191688,
+NC_007123.7,648374,656401,sult2st2,minus,777793,"sulfotransferase family 2, cytosolic sulfotransferase 2"
+NC_007123.7,658186,687421,si:ch211-176g6.2,minus,572157,
+NC_007123.7,695358,788154,abcc3,plus,323301,
+NC_007123.7,804310,808591,wfikkn2b,plus,570642,
+NC_007123.7,847187,850369,tob1b,minus,406245,"transducer of ERBB2, 1b"
+NC_007123.7,898591,962275,spag9b,minus,100333761,
+NC_007123.7,964503,980009,daglb,minus,565287,
+NC_007123.7,982858,990058,kdelr2b,minus,325464,KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2b
+NC_007123.7,992557,999816,mettl9,minus,768200,methyltransferase like 9
+NC_007123.7,1000340,1010521,si:ch1073-272o11.3,plus,101886304,
+NC_007123.7,1014418,1034460,polr3e,minus,336518,polymerase (RNA) III (DNA directed) polypeptide E
+NC_007123.7,1037728,1054354,LOC100332293,minus,100332293,
+NC_007123.7,1056975,1067070,LOC101885454,plus,101885454,
+NC_007123.7,1072485,1085503,sox8a,minus,102216265,SRY (sex determining region Y)-box 8a
+NC_007123.7,1087095,1132970,lmf1,plus,100333693,
+NC_007123.7,1187425,1242820,rab26,plus,101885743,
+NC_007123.7,1286531,1388444,pemt,plus,393127,phosphatidylethanolamine N-methyltransferase
+NC_007123.7,1301002,1301625,LOC101885815,minus,101885815,
+NC_007123.7,1339150,1345921,LOC110440136,minus,110440136,
+NC_007123.7,1349069,1359873,LOC110440160,minus,110440160,
+NC_007123.7,1361265,1362102,LOC100535225,plus,100535225,
+NC_007123.7,1367953,1372746,LOC795264,minus,795264,
+NC_007123.7,1398404,1400006,rasd1,plus,393504,"RAS, dexamethasone-induced 1"
+NC_007123.7,1403895,1406475,si:ch73-105m5.1,minus,100332528,
+NC_007123.7,1455063,1468173,cops3,plus,335720,COP9 signalosome subunit 3
+NC_007123.7,1468940,1526053,usp22,plus,692275,ubiquitin specific peptidase 22
+NC_007123.7,1527678,1535850,tnfrsf13b,minus,103911891,
+NC_007123.7,1555720,1563283,sstr2a,minus,100333578,
+NC_007123.7,1581393,1584091,LOC100333697,minus,100333697,
+NC_007123.7,1590818,1609974,slc39a11,plus,101882215,
+NC_007123.7,1629133,1742269,LOC110440161,plus,110440161,
+NC_007123.7,1947593,1951233,sox9a,minus,60641,SRY (sex determining region Y)-box 9a
+NC_007123.7,2364767,2376319,LOC101886442,minus,101886442,
+NC_007123.7,2386982,2392296,LOC110440137,plus,110440137,
+NC_007123.7,2399045,2417424,vstm4b,plus,100142652,
+NC_007123.7,2428071,2430802,lrrc18b,plus,568967,
+NC_007123.7,2446683,2492820,si:dkey-191m6.4,plus,555573,
+NC_007123.7,2499698,2522550,mapk8b,minus,65236,mitogen-activated protein kinase 8b
+NC_007123.7,2525084,2579352,frmpd2,plus,571843,
+NC_007123.7,2631804,2645640,gdf10b,plus,794493,growth differentiation factor 10b
+NC_007123.7,2645515,2658674,LOC103911892,minus,103911892,
+NC_007123.7,2648043,2651276,gdf2,plus,563287,growth differentiation factor 2
+NC_007123.7,2660692,2670160,irbp,plus,30735,interphotoreceptor retinoid-binding protein
+NC_007123.7,2677247,2740709,antxr1c,plus,563907,
+NC_007123.7,2780402,2800809,ubtd1b,minus,571832,ubiquitin domain containing 1b
+NC_007123.7,2804505,2850332,mms19,plus,563643,"MMS19 homolog, cytosolic iron-sulfur assembly component"
+NC_007123.7,2850160,2869596,zdhhc16b,minus,393316,"zinc finger, DHHC-type containing 16b"
+NC_007123.7,2870678,2895802,prkar1ab,plus,550427,"protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1) b"
+NC_007123.7,2905023,2940572,fam20a,minus,564308,"family with sequence similarity 20, member A"
+NC_007123.7,2969407,2992503,LOC103911894,minus,103911894,
+NC_007123.7,2993495,3020627,lrrc45,plus,100329452,
+NC_007123.7,3022872,3042029,rac3b,plus,795167,"ras-related C3 botulinum toxin substrate 3b (rho family, small GTP binding protein Rac3)"
+NC_007123.7,3043303,3053879,dcxr,minus,550282,dicarbonyl/L-xylulose reductase
+NC_007123.7,3058989,3077395,rfng,minus,414848,RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
+NC_007123.7,3078160,3092539,sgca,plus,557170,
+NC_007123.7,3095617,3133500,col1a1b,minus,325675,"collagen, type I, alpha 1b"
+NC_007123.7,3220082,3237685,si:ch1073-13h15.3,minus,563241,
+NC_007123.7,3249054,3252263,gngt2b,minus,797361,"guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2b"
+NC_007123.7,3262564,3273072,tmem101,plus,572154,transmembrane protein 101
+NC_007123.7,3277247,3284913,LOC108191691,minus,108191691,
+NC_007123.7,3287781,3299149,lsm12b,minus,406422,LSM12 homolog b
+NC_007123.7,3301149,3310677,g6pc3,plus,790919,"glucose 6 phosphatase, catalytic, 3"
+NC_007123.7,3312276,3543958,tanc2b,minus,335127,
+NC_007123.7,3560116,3568948,cntd1,minus,100150347,
+NC_007123.7,3571770,3574657,coa3a,plus,100141351,cytochrome C oxidase assembly factor 3a
+NC_007123.7,3581533,3709090,wnk4a,minus,100330953,
+NC_007123.7,3715686,3721989,vps25,minus,407684,vacuolar protein sorting 25 homolog (S. cerevisiae)
+NC_007123.7,3723650,3732014,pagr1,plus,326076,PAXIP1 associated glutamate-rich protein 1
+NC_007123.7,3740256,3756860,fam57bb,minus,558881,
+NC_007123.7,3759209,3778967,si:ch211-166g5.4,minus,100150156,
+NC_007123.7,3788955,3840695,taok2b,minus,100151551,
+NC_007123.7,3848098,3861761,cabp5a,plus,393671,calcium binding protein 5a
+NC_007123.7,3871464,3890193,nif3l1,plus,574421,NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae)
+NC_007123.7,3892365,3904465,gdpd3b,minus,567286,
+NC_007123.7,3912544,3923070,tbx6,plus,192294,T-box 6
+NC_007123.7,3926502,3940795,zgc:92040,minus,436664,zgc:92040
+NC_007123.7,3944224,3962401,eif3c,minus,334234,"eukaryotic translation initiation factor 3, subunit C"
+NC_007123.7,3964351,3978308,ppp4cb,minus,562705,"protein phosphatase 4, catalytic subunit b"
+NC_007123.7,3981629,3992621,si:ch211-136m16.8,minus,100000629,
+NC_007123.7,3998899,4028118,si:ch211-180a12.2,minus,100150385,
+NC_007123.7,4036409,4044132,zgc:123217,plus,641414,zgc:123217
+NC_007123.7,4052180,4069833,aldoab,minus,406496,"aldolase a, fructose-bisphosphate, b"
+NC_007123.7,4080019,4096839,LOC101882757,plus,101882757,
+NC_007123.7,4114457,4143798,si:dkey-32n7.4,plus,101882585,
+NC_007123.7,4147422,4169299,itgam,plus,563715,
+NC_007123.7,4170027,4190164,si:dkey-32n7.7,minus,108191692,
+NC_007123.7,4194068,4203461,LOC100333187,minus,100333187,
+NC_007123.7,4217098,4220719,vkorc1,minus,100000559,"vitamin K epoxide reductase complex, subunit 1"
+NC_007123.7,4222840,4238827,mapk7,plus,541323,mitogen-activated protein kinase 7
+NC_007123.7,4241458,4248933,zgc:92313,minus,436869,zgc:92313
+NC_007123.7,4260693,4279423,mmp25b,plus,100333601,
+NC_007123.7,4294920,4301748,ca15b,minus,791844,carbonic anhydrase XVb
+NC_007123.7,4308522,4317206,zgc:153760,minus,767680,zgc:153760
+NC_007123.7,4320176,4335293,ca15a,minus,553469,carbonic anhydrase XVa
+NC_007123.7,4338291,4346109,ca15c,minus,768190,carbonic anhydrase XV c
+NC_007123.7,4361603,4371519,si:ch211-173d10.4,minus,108191769,
+NC_007123.7,4377298,4388712,hrc,minus,553296,
+NC_007123.7,4396308,4435303,si:ch211-173d10.1,minus,102659286,si:ch211-173d10.1
+NC_007123.7,4440311,4482570,trpm4b.1,minus,102659287,
+NC_007123.7,4487561,4532066,trpm4b.2,minus,799647,"transient receptor potential cation channel, subfamily M, member 4b, transient receptor potential cation channel, subfamily M, member 4b, tandem duplicate 2"
+NC_007123.7,4551940,4577284,si:dkey-94f20.4,plus,101883577,
+NC_007123.7,4579712,4598714,irf3,minus,564854,interferon regulatory factor 3
+NC_007123.7,4601349,4632217,prr12a,minus,564766,
+NC_007123.7,4643847,4673470,si:ch211-255p10.4,minus,564701,
+NC_007123.7,4677191,4683353,si:ch211-255p10.3,minus,100538337,
+NC_007123.7,4686117,4725660,kansl1a,plus,564520,
+NC_007123.7,4734885,4802930,mapta,minus,100000342,
+NC_007123.7,4807201,4811009,LOC108191695,minus,108191695,
+NC_007123.7,4836856,4841018,zgc:163073,minus,100037358,zgc:163073
+NC_007123.7,4845448,4854555,ghrhr2,plus,100002189,growth hormone releasing hormone receptor 2
+NC_007123.7,4856435,4893651,scn4aa,plus,572442,"sodium channel, voltage-gated, type IV, alpha, a"
+NC_007123.7,4899122,4907188,cd79b,plus,100329481,
+NC_007123.7,4911907,4916969,ifnphi4,minus,100302089,interferon phi 4
+NC_007123.7,4920352,4962882,plekhm1,plus,564048,"pleckstrin homology domain containing, family M (with RUN domain) member 1"
+NC_007123.7,4971685,5044301,arhgap27,plus,564211,
+NC_007123.7,5048074,5071836,kif22,plus,561788,kinesin family member 22
+NC_007123.7,5081743,5095147,prrt2,plus,100329612,
+NC_007123.7,5102686,5113388,cep55l,plus,553800,centrosomal protein 55 like
+NC_007123.7,5115992,5120217,rbp4,minus,30077,"retinol binding protein 4, plasma"
+NC_007123.7,5129245,5154099,pde6c,plus,393845,"phosphodiesterase 6C, cGMP-specific, cone, alpha prime"
+NC_007123.7,5156332,5188409,fra10ac1,minus,449836,FRA10A associated CGG repeat 1
+NC_007123.7,5189776,5204971,lgi1b,plus,654829,"leucine-rich, glioma inactivated 1b"
+NC_007123.7,5209839,5222692,si:ch211-197g18.2,plus,100001920,
+NC_007123.7,5240466,5399690,plce1,plus,568288,"phospholipase C, epsilon 1"
+NC_007123.7,5399680,5418338,noc3l,minus,321289,NOC3-like DNA replication regulator
+NC_007123.7,5424665,5455983,tbc1d12b,minus,100332088,
+NC_007123.7,5458116,5459923,drd6b,plus,100001636,
+NC_007123.7,5492798,5505250,abi3b,minus,566059,
+NC_007123.7,5530230,5582060,ace,plus,565980,
+NC_007123.7,5584575,5663395,itga3b,minus,100331874,"integrin, alpha 3b"
+NC_007123.7,5696989,5697098,mir2186,plus,100310775,microRNA 2186
+NC_007123.7,5708423,5711920,dlx3b,plus,30585,distal-less homeobox 3b
+NC_007123.7,5719616,5728729,dlx4b,minus,30581,distal-less homeobox 4b
+NC_007123.7,5977353,5981578,si:ch211-131k2.2,plus,101886074,
+NC_007123.7,5981333,5998928,kat7b,minus,323181,K(lysine) acetyltransferase 7b
+NC_007123.7,6002466,6012169,LOC110440138,minus,110440138,
+NC_007123.7,6002715,6006869,si:ch211-131k2.3,plus,566751,si:ch211-131k2.3
+NC_007123.7,6021725,6034056,g6pca.1,minus,445118,"glucose-6-phosphatase a, catalytic subunit, tandem duplicate 1"
+NC_007123.7,6041562,6048286,g6pca.2,plus,563180,"glucose-6-phosphatase a, catalytic subunit, tandem duplicate 2"
+NC_007123.7,6049358,6063311,aarsd1,minus,445178,alanyl-tRNA synthetase domain containing 1
+NC_007123.7,6102348,6114296,sgms1,plus,566563,sphingomyelin synthase 1
+NC_007123.7,6117682,6142308,asah2,plus,493602,N-acylsphingosine amidohydrolase 2
+NC_007123.7,6143991,6146127,LOC103911899,minus,103911899,
+NC_007123.7,6158225,6159423,rltgr,minus,100499491,RAMP-like triterpene glycoside receptor
+NC_007123.7,6161130,6177944,a1cf,minus,562916,
+NC_007123.7,6194972,6451353,prkg1b,plus,566430,
+NC_007123.7,6465531,6467675,dkk1b,plus,30197,dickkopf WNT signaling pathway inhibitor 1b
+NC_007123.7,6542789,6905783,pcdh15b,minus,503521,protocadherin-related 15b
+NC_007123.7,7149112,7157575,si:dkey-187i8.2,minus,101882603,
+NC_007123.7,7198761,7234915,ipmkb,minus,790916,inositol polyphosphate multikinase b
+NC_007123.7,7237666,7253234,ube2d1b,minus,324015,ubiquitin-conjugating enzyme E2D 1b
+NC_007123.7,7254112,7263958,tfam,plus,571106,"transcription factor A, mitochondrial"
+NC_007123.7,7267673,7280557,zgc:171971,minus,569690,zgc:171971
+NC_007123.7,7282131,7342563,zgc:110716,plus,550248,zgc:110716
+NC_007123.7,7366768,7435492,bicc1b,plus,571411,
+NC_007123.7,7445595,7513576,phyhiplb,plus,100004913,phytanoyl-CoA 2-hydroxylase interacting protein-like b
+NC_007123.7,7516372,7543474,si:ch73-51i5.2,minus,100537056,
+NC_007123.7,7589190,7607112,slc16a9b,minus,445158,"solute carrier family 16, member 9b"
+NC_007123.7,7609928,7639120,ccdc6b,minus,393211,coiled-coil domain containing 6b
+NC_007123.7,7640825,7992115,ank3b,minus,100126016,
+NC_007123.7,7738020,7739491,LOC110440139,minus,110440139,
+NC_007123.7,7997913,8039373,rhobtb1,plus,100537290,
+NC_007123.7,8064026,8070969,tmem26b,minus,100136874,transmembrane protein 26b
+NC_007123.7,8074343,8104809,zgc:194508,plus,100004673,zgc:194508
+NC_007123.7,8168215,8385837,arid5b,plus,100536827,
+NC_007123.7,8474868,8476513,adoa,plus,494091,2-aminoethanethiol (cysteamine) dioxygenase a
+NC_007123.7,8483834,8504291,egr2b,minus,30190,early growth response 2b
+NC_007123.7,8569740,8579727,nrbf2b,plus,436886,nuclear receptor binding factor 2b
+NC_007123.7,8582064,8817990,jmjd1cb,minus,558436,
+NC_007123.7,8822738,8882186,reep3b,plus,393130,receptor accessory protein 3b
+NC_007123.7,8858473,8860177,LOC108191699,minus,108191699,
+NC_007123.7,8954761,8958355,cyp26a1,minus,30381,"cytochrome P450, family 26, subfamily A, polypeptide 1"
+NC_007123.7,8968309,9087561,exoc6,minus,406591,exocyst complex component 6
+NC_007123.7,9097708,9132826,adam8b,minus,100005593,
+NC_007123.7,9163339,9164622,LOC101884976,minus,101884976,
+NC_007123.7,9183626,9218255,tubgcp2,plus,386975,"tubulin, gamma complex associated protein 2"
+NC_007123.7,9251058,9252327,pimr46,plus,103911906,
+NC_007123.7,9257457,9294839,pth1rb,minus,30651,parathyroid hormone 1 receptor b
+NC_007123.7,9305832,9315811,taco1,plus,570857,translational activator of mitochondrially encoded cytochrome c oxidase I
+NC_007123.7,9317713,9347552,kcnh6b,plus,570070,
+NC_007123.7,9360321,9438090,erbb2,minus,386966,erb-b2 receptor tyrosine kinase 2
+NC_007123.7,9448455,9468799,pgap3,minus,100136873,post-GPI attachment to proteins 3
+NC_007123.7,9482872,9498049,si:ch211-207i20.2,minus,568537,si:ch211-207i20.2
+NC_007123.7,9499742,9510395,dnajc9,plus,436706,"DnaJ (Hsp40) homolog, subfamily C, member 9"
+NC_007123.7,9510474,9517012,si:ch211-207i20.3,minus,555734,
+NC_007123.7,9518669,9538747,nudt13,minus,556815,nudix (nucleoside diphosphate linked moiety X)-type motif 13
+NC_007123.7,9542103,9585800,p4ha1a,plus,562774,"prolyl 4-hydroxylase, alpha polypeptide I a"
+NC_007123.7,9597151,9617770,arg1,minus,570368,arginase 1
+NC_007123.7,9619909,9700990,heatr1,minus,334446,HEAT repeat containing 1
+NC_007123.7,9702649,9773549,ppp1r9bb,plus,100331262,
+NC_007123.7,9781524,9790464,prdm9,minus,393876,PR domain containing 9
+NC_007123.7,9810804,9812441,LOC108191783,plus,108191783,
+NC_007123.7,9817462,9840819,rundc3ab,plus,393118,RUN domain containing 3Ab
+NC_007123.7,9849476,9876072,fam117ab,plus,100151756,"family with sequence similarity 117, member Ab"
+NC_007123.7,9880814,9884326,ndufa4,plus,406298,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4"
+NC_007123.7,9950392,10038870,ngfrb,minus,564338,nerve growth factor receptor b
+NC_007123.7,10053832,10100504,slc4a1b,plus,561787,"solute carrier family 4 (anion exchanger), member 1b (Diego blood group)"
+NC_007123.7,10115880,10129699,si:dkeyp-118b1.2,plus,559983,si:dkeyp-118b1.2
+NC_007123.7,10134298,10160947,smarcd2,plus,564317,
+NC_007123.7,10163645,10175487,psmc5,plus,445285,"proteasome 26S subunit, ATPase 5"
+NC_007123.7,10199214,10300092,mpp2b,minus,431770,"membrane protein, palmitoylated 2b (MAGUK p55 subfamily member 2)"
+NC_007123.7,10304407,10315039,pyyb,minus,793458,peptide YYb
+NC_007123.7,10337676,10351959,tut1,minus,564388,"terminal uridylyl transferase 1, U6 snRNA-specific"
+NC_007123.7,10353366,10365969,ndc80,minus,445386,NDC80 kinetochore complex component
+NC_007123.7,10367829,10381100,mki67,minus,564521,marker of proliferation Ki-67
+NC_007123.7,10381960,10410432,eef2k,minus,437013,eukaryotic elongation factor 2 kinase
+NC_007123.7,10410902,10410983,trnal-uag,plus,108191890,
+NC_007123.7,10412437,10421913,zgc:153595,minus,767723,zgc:153595
+NC_007123.7,10424679,10441639,uqcrc2b,minus,322549,ubiquinol-cytochrome c reductase core protein IIb
+NC_007123.7,10443777,10447178,snu13b,plus,321114,"SNU13 homolog, small nuclear ribonucleoprotein b (U4/U6.U5)"
+NC_007123.7,10448134,10462506,crym,plus,791205,"crystallin, mu"
+NC_007123.7,10464897,10476337,rac1a,minus,327204,"ras-related C3 botulinum toxin substrate 1a (rho family, small GTP binding protein Rac1)"
+NC_007123.7,10478315,10512905,zgc:152977,minus,751759,
+NC_007123.7,10517473,10567188,myof,minus,393849,myoferlin
+NC_007123.7,10599601,10615735,lrrc3ca,plus,571711,
+NC_007123.7,10631042,10638063,csf3a,plus,100270759,colony stimulating factor 3 (granulocyte) a
+NC_007123.7,10643689,10674910,med24,minus,323621,mediator complex subunit 24
+NC_007123.7,10679024,10705963,samd14,minus,100537418,
+NC_007123.7,10706772,10740236,top2a,plus,323733,topoisomerase (DNA) II alpha
+NC_007123.7,10833055,11157495,raraa,plus,30680,"retinoic acid receptor, alpha a"
+NC_007123.7,10919182,10919255,trnat-cgu,minus,108191823,
+NC_007123.7,11167887,11198776,zgc:163107,plus,563454,zgc:163107
+NC_007123.7,11244344,11258404,si:ch73-30l9.1,minus,798447,
+NC_007123.7,11262954,11306770,get4,minus,796309,golgi to ER traffic protein 4 homolog (S. cerevisiae)
+NC_007123.7,11315849,11349899,zgc:174164,minus,570656,zgc:174164
+NC_007123.7,11352636,11371291,si:rp71-19m20.1,plus,570641,
+NC_007123.7,11388724,11457625,htra1b,minus,565082,HtrA serine peptidase 1b
+NC_007123.7,11496298,11593672,plekha1b,minus,100537419,
+NC_007123.7,11601556,11649690,btbd16,minus,565632,
+NC_007123.7,11650133,11763661,waplb,plus,100141368,
+NC_007123.7,11768158,11769305,atoh1c,minus,100498672,
+NC_007123.7,11832245,11836090,LOC110440162,plus,110440162,
+NC_007123.7,11924291,11926969,LOC101883797,minus,101883797,
+NC_007123.7,12111399,12833434,grid1b,plus,557511,
+NC_007123.7,12684318,12686099,LOC108191704,plus,108191704,
+NC_007123.7,12954971,13081362,ccser2b,minus,101883927,
+NC_007123.7,13091905,13106217,si:ch211-103b1.2,plus,556271,
+NC_007123.7,13118545,13164249,cmn,plus,30208,calymmin
+NC_007123.7,13164407,13177070,paqr4b,plus,100148532,
+NC_007123.7,13189213,13205562,pelo,minus,394111,pelota homolog (Drosophila)
+NC_007123.7,13205955,13223449,ppp1cab,plus,327301,"protein phosphatase 1, catalytic subunit, alpha isozyme b"
+NC_007123.7,13244392,13261747,atp2a1l,plus,494489,"ATPase, Ca++ transporting, cardiac muscle, fast twitch 1 like"
+NC_007123.7,13282709,13306886,irf9,plus,403013,interferon regulatory factor 9
+NC_007123.7,13311939,13318945,emc9,minus,393094,ER membrane protein complex subunit 9
+NC_007123.7,13319439,13331961,psme2,plus,30647,proteasome activator subunit 2
+NC_007123.7,13331526,13337031,lsm5,minus,563948,"LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated"
+NC_007123.7,13344985,13389784,rnasen,plus,567505,"ribonuclease type III, nuclear"
+NC_007123.7,13405008,13468403,kcnh4b,plus,567442,
+NC_007123.7,13527422,13550389,ghdc,minus,497449,GH3 domain containing
+NC_007123.7,13564357,13650273,stat5b,minus,445474,signal transducer and activator of transcription 5b
+NC_007123.7,13652406,13721912,oplah,plus,100151110,5-oxoprolinase (ATP-hydrolysing)
+NC_007123.7,13723590,13730658,foxh1,minus,57930,forkhead box H1
+NC_007123.7,13738283,13739865,LOC101884387,minus,101884387,
+NC_007123.7,13740002,13741349,LOC101884437,plus,101884437,
+NC_007123.7,13742844,13789700,ppp1r16a,plus,794494,
+NC_007123.7,13812109,13887124,adam11,minus,567145,
+NC_007123.7,13888670,13907205,dbf4b,minus,566753,
+NC_007123.7,13908418,13956930,fkbp10b,plus,324381,FK506 binding protein 10b
+NC_007123.7,13961268,13966184,klhl11,minus,327313,kelch-like family member 11
+NC_007123.7,13973718,14078070,aclyb,minus,794259,
+NC_007123.7,14079154,14130709,si:ch211-217a12.1,plus,100148522,
+NC_007123.7,14138326,14143344,buc2l,minus,100537720,
+NC_007123.7,14150043,14162781,kbtbd2,plus,563254,kelch repeat and BTB (POZ) domain containing 2
+NC_007123.7,14166036,14211317,avl9,minus,751682,AVL9 homolog (S. cerevisiase)
+NC_007123.7,14211487,14310118,mto1,plus,100009640,mitochondrial tRNA translation optimization 1
+NC_007123.7,14213423,14214175,LOC110440141,minus,110440141,
+NC_007123.7,14240961,14276677,LOC110440140,minus,110440140,
+NC_007123.7,14586076,14703429,becn1,plus,393846,"beclin 1, autophagy related"
+NC_007123.7,14763661,14766213,LOC103911903,plus,103911903,
+NC_007123.7,14920090,14922903,neurod2,minus,114435,neurogenic differentiation 2
+NC_007123.7,14965587,15002595,pkmyt1,minus,100049158,"protein kinase, membrane associated tyrosine/threonine 1"
+NC_007123.7,15008632,15010996,mylpfb,plus,447930,"myosin light chain, phosphorylatable, fast skeletal muscle b"
+NC_007123.7,15078138,15082555,LOC100332609,plus,100332609,
+NC_007123.7,15112116,15115188,LOC101882309,plus,101882309,
+NC_007123.7,15148625,15196223,adprh,plus,445059,ADP-ribosylarginine hydrolase
+NC_007123.7,15197857,15205064,sult1st6,minus,436872,"sulfotransferase family 1, cytosolic sulfotransferase 6"
+NC_007123.7,15273103,15313929,med1,plus,571519,
+NC_007123.7,15354740,15355417,LOC108191789,minus,108191789,
+NC_007123.7,15363446,15461670,plxdc1,plus,100286775,plexin domain containing 1
+NC_007123.7,15476839,15561521,arhgap23b,plus,562244,
+NC_007123.7,15565344,15566922,hexim1,minus,562319,hexamethylene bis-acetamide inducible 1
+NC_007123.7,15568761,15584479,acbd4,minus,406368,acyl-CoA binding domain containing 4
+NC_007123.7,15622613,15664595,plcd3b,plus,562569,
+NC_007123.7,15666912,15676286,nmt1b,plus,562651,N-myristoyltransferase 1b
+NC_007123.7,15690381,15823370,si:dkeyp-94b4.1,plus,562786,
+NC_007123.7,15948420,15951265,LOC108191706,plus,108191706,
+NC_007123.7,15965305,15968384,LOC101885952,minus,101885952,
+NC_007123.7,16062626,16084842,si:dkey-100n10.2,minus,100000044,
+NC_007123.7,16087077,16102422,znf281b,plus,503523,zinc finger protein 281b
+NC_007123.7,16106359,16122520,muc13b,plus,799648,"mucin 13b, cell surface associated"
+NC_007123.7,16135331,16229404,lrp2b,plus,101886177,
+NC_007123.7,16233077,16276343,mpp3b,plus,799884,
+NC_007123.7,16284100,16288285,ppp1r3cb,plus,393807,"protein phosphatase 1, regulatory subunit 3Cb"
+NC_007123.7,16332168,16381058,hectd2,minus,562999,
+NC_007123.7,16405598,16435109,pcgf5b,minus,692252,polycomb group ring finger 5b
+NC_007123.7,16440744,16446373,ankrd1b,plus,564159,ankyrin repeat domain 1b (cardiac muscle)
+NC_007123.7,16446227,16452475,rpp30,minus,541352,ribonuclease P/MRP 30 subunit
+NC_007123.7,16452555,16479730,kif20bb,plus,100007502,
+NC_007123.7,16490255,16491831,LOC108191791,plus,108191791,
+NC_007123.7,16521328,16524663,htr7,minus,100536080,
+NC_007123.7,16553774,16554299,LOC108180223,minus,108180223,
+NC_007123.7,16555598,16595400,LOC100536033,minus,100536033,
+NC_007123.7,16592573,16595406,si:dkey-239j18.2,minus,321853,si:dkey-239j18.2
+NC_007123.7,16617134,16619752,ctslb,minus,30443,cathepsin Lb
+NC_007123.7,16634324,16636866,si:dkey-239j18.3,minus,100001785,
+NC_007123.7,16691584,16694092,wu:fa26c03,minus,564979,wu:fa26c03
+NC_007123.7,16717938,16720432,MGC174155,minus,564906,Cathepsin L1-like
+NC_007123.7,16742811,16746331,wu:fb36g12,minus,321843,
+NC_007123.7,16758972,16764751,si:dkey-269i1.3,minus,100537591,si:dkey-269i1.3
+NC_007123.7,16801385,16804101,LOC108191709,plus,108191709,
+NC_007123.7,16874631,16877125,si:dkey-269i1.4,minus,564835,si:dkey-269i1.4
+NC_007123.7,16895574,16898180,si:dkey-26g8.4,minus,100537665,
+NC_007123.7,16912346,16914730,LOC108191771,plus,108191771,
+NC_007123.7,16914789,16918195,LOC101886821,minus,101886821,
+NC_007123.7,16919411,16923162,si:dkey-26g8.5,minus,563390,si:dkey-26g8.5
+NC_007123.7,16938811,16941319,zgc:174855,minus,569326,zgc:174855
+NC_007123.7,16942316,16943423,LOC110440164,minus,110440164,
+NC_007123.7,16949391,16951851,zgc:174153,plus,567623,zgc:174153
+NC_007123.7,16953658,16964840,pank1b,plus,565059,pantothenate kinase 1b
+NC_007123.7,16960693,16960781,mir107,plus,100033626,microRNA 107
+NC_007123.7,16967716,16986968,slc16a12b,plus,449947,"solute carrier family 16, member 12b"
+NC_007123.7,16989101,16990887,ifit12,minus,567504,interferon-induced protein with tetratricopeptide repeats 12
+NC_007123.7,16997565,17018678,LOC100537930,minus,100537930,interferon-induced protein with tetratricopeptide repeats 5-like
+NC_007123.7,17017864,17024095,ifit11,minus,100001239,interferon-induced protein with tetratricopeptide repeats 11
+NC_007123.7,17025726,17028245,ifit10,minus,567441,interferon-induced protein with tetratricopeptide repeats 10
+NC_007123.7,17033539,17034957,ifit9,minus,567384,interferon-induced protein with tetratricopeptide repeats 9
+NC_007123.7,17042757,17043874,ch25h,plus,494109,cholesterol 25-hydroxylase
+NC_007123.7,17100473,17115730,acta2,plus,322509,"actin, alpha 2, smooth muscle, aorta"
+NC_007123.7,17117801,17152024,stambpl1,minus,570542,
+NC_007123.7,17154778,17158622,ankrd22,plus,393244,ankyrin repeat domain 22
+NC_007123.7,17158642,17201028,lipf,minus,406713,"lipase, gastric"
+NC_007123.7,17201525,17323341,rnls,plus,436880,"renalase, FAD-dependent amine oxidase"
+NC_007123.7,17400669,17424162,ptenb,minus,368415,phosphatase and tensin homolog B
+NC_007123.7,17436904,17456083,atad1b,plus,368412,"ATPase family, AAA domain containing 1b"
+NC_007123.7,17458949,17479078,papss2b,minus,80939,3'-phosphoadenosine 5'-phosphosulfate synthase 2b
+NC_007123.7,17482607,17492822,minpp1b,minus,394075,multiple inositol-polyphosphate phosphatase 1b
+NC_007123.7,17504535,17562507,cyth3a,plus,100002190,
+NC_007123.7,17570115,17592305,usp42,minus,327528,
+NC_007123.7,17591786,17602967,eif2ak1,minus,565338,eukaryotic translation initiation factor 2-alpha kinase 1
+NC_007123.7,17603499,17619524,pms2,plus,565276,
+NC_007123.7,17620112,17633723,rsph10b,plus,767792,radial spoke head 10 homolog B (Chlamydomonas)
+NC_007123.7,17633508,17655692,dlgap5,minus,447853,"discs, large (Drosophila) homolog-associated protein 5"
+NC_007123.7,17657224,17686335,ccz1,minus,393103,"CCZ1 homolog, vacuolar protein trafficking and biogenesis associated"
+NC_007123.7,17696107,17698312,pvalb9,minus,360209,parvalbumin 9
+NC_007123.7,17705216,17707517,pvalb3,minus,100000771,parvalbumin 3
+NC_007123.7,17706792,17706901,mir2192,minus,100310778,microRNA 2192
+NC_007123.7,17710425,17712498,pvalb2,minus,58028,parvalbumin 2
+NC_007123.7,17727528,17727651,mir338-2,plus,100033714,microRNA 338-2
+NC_007123.7,17754859,17756905,bhlha15,plus,777671,"basic helix-loop-helix family, member a15"
+NC_007123.7,17760384,17810583,tecpr1a,minus,556500,
+NC_007123.7,17815943,17863336,baiap2l1a,minus,387261,BAI1-associated protein 2-like 1a
+NC_007123.7,17866102,17874413,tmem130,plus,567635,transmembrane protein 130
+NC_007123.7,17889465,17897134,nptx2b,minus,556906,neuronal pentraxin IIb
+NC_007123.7,17927875,18105116,trrap,plus,557263,
+NC_007123.7,18234595,18344083,fam20cb,plus,560397,
+NC_007123.7,18358082,18362422,si:dkey-7e14.3,plus,100003253,si:dkey-7e14.3
+NC_007123.7,18376670,18408620,tom1l2,minus,560327,target of myb1 like 2 membrane trafficking protein
+NC_007123.7,18410608,18414496,atpaf2,minus,560253,ATP synthase mitochondrial F1 complex assembly factor 2
+NC_007123.7,18445604,18454422,noxo1b,plus,561765,NADPH oxidase organizer 1b
+NC_007123.7,18458390,18465403,rnf151,plus,100004674,
+NC_007123.7,18468066,18519860,tex2l,minus,100004729,
+NC_007123.7,18524992,18527221,neurl2,plus,560768,neuralized E3 ubiquitin protein ligase 2
+NC_007123.7,18529311,18531943,msrb1b,plus,100003670,methionine sulfoxide reductase B1b
+NC_007123.7,18533060,18543760,meiob,plus,101882335,
+NC_007123.7,18543792,18553114,mlst8,plus,792689,"MTOR associated protein, LST8 homolog (S. cerevisiae)"
+NC_007123.7,18552570,18560501,bricd5,minus,792755,BRICHOS domain containing 5
+NC_007123.7,18565553,18568847,pgp,minus,792824,phosphoglycolate phosphatase
+NC_007123.7,18571461,18577983,zdhhc4,minus,561817,"zinc finger, DHHC-type containing 4"
+NC_007123.7,18578390,18657241,grid2ipb,plus,559717,"glutamate receptor, ionotropic, delta 2 (Grid2) interacting protein, b"
+NC_007123.7,18681351,18717659,rgs9b,plus,793087,regulator of G protein signaling 9b
+NC_007123.7,18718105,18787317,mkl1b,plus,559638,megakaryoblastic leukemia (translocation) 1b
+NC_007123.7,18795340,18872743,shisa8b,minus,101882404,
+NC_007123.7,18895657,18898475,desi1b,minus,793871,desumoylating isopeptidase 1b
+NC_007123.7,18898864,18904360,xrcc6,plus,334488,X-ray repair complementing defective repair in Chinese hamster cells 6
+NC_007123.7,18906476,18913233,josd1,plus,767655,Josephin domain containing 1
+NC_007123.7,18916293,18922604,cbx7b,plus,101882803,
+NC_007123.7,18927062,18961731,ep300a,minus,559273,
+NC_007123.7,18968708,18968779,trnaq-cug,minus,108191834,
+NC_007123.7,18970790,18988496,l3mbtl2,plus,568473,l(3)mbt-like 2 (Drosophila)
+NC_007123.7,18989485,19007834,chadlb,minus,100330176,chondroadherin-like b
+NC_007123.7,19007925,19028068,rangap1b,minus,568424,Ran GTPase activating protein 1b
+NC_007123.7,19028406,19028478,trnar-ccu,plus,108191901,
+NC_007123.7,19028467,19035979,si:ch73-139e5.2,plus,792904,
+NC_007123.7,19036320,19065298,kctd17,plus,568267,
+NC_007123.7,19065302,19091371,si:ch73-139e5.4,minus,568219,
+NC_007123.7,19099264,19103395,csdc2a,minus,436963,"cold shock domain containing C2, RNA binding a"
+NC_007123.7,19106571,19119154,aco2,minus,322670,"aconitase 2, mitochondrial"
+NC_007123.7,19138474,19143678,phf5a,plus,286774,PHD finger protein 5A
+NC_007123.7,19144833,19153222,tefa,minus,30674,thyrotrophic embryonic factor a
+NC_007123.7,19156113,19185858,zc3h7b,minus,557754,
+NC_007123.7,19188588,19190159,cby1,plus,326875,chibby homolog 1 (Drosophila)
+NC_007123.7,19190624,19198602,slc16a8,plus,557884,"solute carrier family 16 (monocarboxylate transporter), member 8"
+NC_007123.7,19199735,19204444,pdap1a,plus,322973,pdgfa associated protein 1a
+NC_007123.7,19208154,19232844,sh3bp1,plus,100006678,
+NC_007123.7,19240564,19250923,cdc42ep1a,minus,101883603,
+NC_007123.7,19275418,19282545,si:ch211-141o9.10,minus,558198,
+NC_007123.7,19281748,19301988,tnrc6b,plus,321362,
+NC_007123.7,19305488,19318374,csnk1e,plus,100006858,"casein kinase 1, epsilon"
+NC_007123.7,19320630,19340220,tmem184ba,plus,550413,transmembrane protein 184ba
+NC_007123.7,19340786,19346647,maff,minus,393307,v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog F
+NC_007123.7,19348527,19353771,tomm22,plus,321232,translocase of outer mitochondrial membrane 22 homolog (yeast)
+NC_007123.7,19356683,19362190,dmc1,plus,553953,DNA meiotic recombinase 1
+NC_007123.7,19362379,19383945,gspt1,plus,445485,G1 to S phase transition 1
+NC_007123.7,19384630,19393968,rsl1d1,plus,563247,ribosomal L1 domain containing 1
+NC_007123.7,19400764,19403785,si:dkey-16i5.8,plus,100007028,
+NC_007123.7,19404588,19407489,LOC103911910,plus,103911910,
+NC_007123.7,19408319,19659254,snx29,plus,565513,
+NC_007123.7,19792918,19865585,shisa9a,minus,541382,shisa family member 9a
+NC_007123.7,19866865,19932506,cpped1,plus,492772,calcineurin-like phosphoesterase domain containing 1
+NC_007123.7,19959037,19974532,ercc4,plus,327322,excision repair cross-complementation group 4
+NC_007123.7,19976420,20060411,mkl2a,plus,793956,
+NC_007123.7,20059859,20082500,LOC103911911,minus,103911911,
+NC_007123.7,20098845,20120731,ubald1a,minus,794012,UBA-like domain containing 1a
+NC_007123.7,20122461,20147764,mgrn1a,plus,793939,"mahogunin, ring finger 1a"
+NC_007123.7,20149189,20157018,foxj1b,plus,494105,forkhead box J1b
+NC_007123.7,20227073,20303432,rhbdf1b,minus,563403,
+NC_007123.7,20336087,20337274,hbz,plus,563335,hemoglobin subunit zeta
+NC_007123.7,20339469,20340543,hbbe3,minus,30596,hemoglobin beta embryonic-3
+NC_007123.7,20343790,20346625,LOC101884456,plus,101884456,
+NC_007123.7,20349867,20350573,hbbe2,minus,405772,hemoglobin beta embryonic-2
+NC_007123.7,20352417,20353544,hbae5,plus,561790,"hemoglobin, alpha embryonic 5"
+NC_007123.7,20355139,20362061,aqp8a.2,minus,563130,"aquaporin 8a, tandem duplicate 2"
+NC_007123.7,20366109,20373058,aqp8a.1,minus,447923,"aquaporin 8a, tandem duplicate 1"
+NC_007123.7,20378376,20409750,lcmt1,minus,447907,leucine carboxyl methyltransferase 1
+NC_007123.7,20412493,20483137,arhgap17a,plus,550254,Rho GTPase activating protein 17a
+NC_007123.7,20552152,20565371,gna13a,plus,326825,"guanine nucleotide binding protein (G protein), alpha 13a"
+NC_007123.7,20567381,20575558,LOC103911930,plus,103911930,
+NC_007123.7,20575640,20584599,LOC103911912,minus,103911912,
+NC_007123.7,20583552,20600378,arsg,plus,564790,arylsulfatase G
+NC_007123.7,20605189,20616095,snx11,minus,492678,sorting nexin 11
+NC_007123.7,20618277,20625916,si:dkey-220f10.4,plus,564717,
+NC_007123.7,20627651,20640165,stx4,plus,323735,syntaxin 4
+NC_007123.7,20641113,20651707,calcoco2,plus,553776,calcium binding and coiled-coil domain 2
+NC_007123.7,20652963,20658285,snf8,minus,492771,"SNF8, ESCRT-II complex subunit, homolog (S. cerevisiae)"
+NC_007123.7,20662636,20665164,gip,minus,790901,gastric inhibitory polypeptide
+NC_007123.7,20667304,20686390,st6galnac1.1,plus,564336,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1, tandem duplicate 1"
+NC_007123.7,20691310,20699183,st6galnac1.2,plus,799868,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1, tandem duplicate 2"
+NC_007123.7,20699941,20785596,LOC564253,plus,564253,
+NC_007123.7,20788243,20796450,nme2a,minus,335716,NME/NM23 nucleoside diphosphate kinase 2a
+NC_007123.7,21065884,21067956,LOC103911913,plus,103911913,
+NC_007123.7,21299338,21549137,ca10a,plus,641327,carbonic anhydrase Xa
+NC_007123.7,21671041,21684274,eme1,minus,558350,
+NC_007123.7,21684291,21688087,mrpl27,plus,553709,mitochondrial ribosomal protein L27
+NC_007123.7,21691872,21748008,pkd1b,plus,565697,
+NC_007123.7,21795759,22039376,thrab,minus,558427,
+NC_007123.7,21930275,21933132,LOC101882900,plus,101882900,
+NC_007123.7,22230412,22238000,ormdl3,minus,450067,ORMDL sphingolipid biosynthesis regulator 3
+NC_007123.7,22258962,22304830,wnt3,plus,569420,"wingless-type MMTV integration site family, member 3"
+NC_007123.7,22311234,22355489,nsfb,minus,554200,N-ethylmaleimide-sensitive factor b
+NC_007123.7,22360786,22401047,si:dkey-38p12.3,minus,555489,
+NC_007123.7,22404094,22445061,hdlbpb,plus,555414,
+NC_007123.7,22449180,22509385,neurl4,minus,555331,
+NC_007123.7,22510994,22524372,shbg,minus,322604,sex hormone-binding globulin
+NC_007123.7,22528750,22541124,zbtb4,minus,798710,
+NC_007123.7,22560121,22573297,polr2a,plus,553347,
+NC_007123.7,22576591,22604313,capgb,plus,336597,"capping protein (actin filament), gelsolin-like b"
+NC_007123.7,22607738,22618078,si:dkey-219e21.2,plus,797371,
+NC_007123.7,22618518,22645215,mfsd8,plus,564342,major facilitator superfamily domain containing 8
+NC_007123.7,22645322,22670279,zcchc4,minus,564410,"zinc finger, CCHC domain containing 4"
+NC_007123.7,22657379,22666273,si:dkey-219e21.4,plus,101883495,
+NC_007123.7,22670341,22672050,LOC103911920,plus,103911920,
+NC_007123.7,22674086,22678551,cdca9,plus,100151622,cell division cycle associated 9
+NC_007123.7,22680128,22819889,ablim2,plus,568454,
+NC_007123.7,22718336,22724078,LOC101883633,minus,101883633,
+NC_007123.7,22823183,22918768,afap1,plus,568356,
+NC_007123.7,22921504,22933470,rab18a,plus,325255,"RAB18A, member RAS oncogene family"
+NC_007123.7,22961894,23009312,mkxa,minus,799136,mohawk homeobox a
+NC_007123.7,23026539,23153131,armc4,minus,799229,
+NC_007123.7,23175962,23365873,mpp7a,minus,30166,"membrane protein, palmitoylated 7a (MAGUK p55 subfamily member 7)"
+NC_007123.7,23356500,23416290,waca,plus,323904,WW domain containing adaptor with coiled-coil a
+NC_007123.7,23424126,23430352,bambia,plus,83496,BMP and activin membrane-bound inhibitor (Xenopus laevis) homolog a
+NC_007123.7,23465428,23469403,LOC103911922,plus,103911922,
+NC_007123.7,23589018,23603275,LOC108191717,plus,108191717,
+NC_007123.7,23646981,23659536,map3k8,minus,563727,
+NC_007123.7,23664279,23676265,mtpap,plus,563801,
+NC_007123.7,23763076,23795909,jcada,plus,100001168,
+NC_007123.7,23812531,23932576,svila,plus,30112,supervillin a
+NC_007123.7,23991328,24053083,psme4b,plus,553346,proteasome activator subunit 4b
+NC_007123.7,24056000,24060358,chac2,minus,557614,"ChaC, cation transport regulator homolog 2 (E. coli)"
+NC_007123.7,24060982,24077141,asb3,plus,334210,ankyrin repeat and SOCS box containing 3
+NC_007123.7,24342300,24637303,nrxn1a,plus,565531,neurexin 1a
+NC_007123.7,24738966,24770184,fshr,plus,195820,follicle stimulating hormone receptor
+NC_007123.7,24776298,24781083,LOC110440142,minus,110440142,
+NC_007123.7,24796513,24832420,foxn2b,minus,550127,forkhead box N2b
+NC_007123.7,24841718,24904991,fbxo11b,minus,567742,
+NC_007123.7,24906108,24928497,msh2,minus,406845,mutS homolog 2 (E. coli)
+NC_007123.7,24953528,24958290,calm2b,plus,192322,"calmodulin 2b, (phosphorylase kinase, delta)"
+NC_007123.7,25043156,25065916,socs5a,minus,768142,suppressor of cytokine signaling 5a
+NC_007123.7,25085844,25092567,gch2,plus,64263,GTP cyclohydrolase 2
+NC_007123.7,25094101,25097520,cript,minus,550592,cysteine-rich PDZ-binding protein
+NC_007123.7,25097806,25110974,pigf,plus,402942,"phosphatidylinositol glycan anchor biosynthesis, class F"
+NC_007123.7,25110014,25150238,rhoq,minus,327510,ras homolog family member Q
+NC_007123.7,25197383,25201576,cox7a3,minus,335751,cytochrome c oxidase subunit VIIa polypeptide 3
+NC_007123.7,25208843,25217792,kcng3,minus,565643,
+NC_007123.7,25223843,25285538,mta3,plus,100003254,"metastasis associated 1 family, member 3"
+NC_007123.7,25291211,25295304,hcar1-4,minus,100329613,
+NC_007123.7,25295494,25295587,trnai-uau,plus,108191912,
+NC_007123.7,25376639,25380015,zfp36l2,minus,333941,"zinc finger protein 36, C3H type-like 2"
+NC_007123.7,25380163,25389646,LOC103911923,plus,103911923,
+NC_007123.7,25423726,25432558,LOC103911924,minus,103911924,
+NC_007123.7,25432632,25485309,ppm1bb,plus,100003481,"protein phosphatase, Mg2+/Mn2+ dependent, 1Bb"
+NC_007123.7,25600750,25603341,six3b,plus,30636,SIX homeobox 3b
+NC_007123.7,25610224,25612007,six2b,minus,566454,SIX homeobox 2b
+NC_007123.7,25640057,25770234,prkcea,plus,100005075,
+NC_007123.7,25775756,25827164,epas1a,plus,566886,
+NC_007123.7,25845494,25881944,glud1b,plus,373092,glutamate dehydrogenase 1b
+NC_007123.7,25885659,25887891,si:dkey-193p11.2,minus,100002805,si:dkey-193p11.2
+NC_007123.7,25893006,25916598,sncgb,minus,553679,"synuclein, gamma b (breast cancer-specific protein 1)"
+NC_007123.7,25930845,25949093,mmrn2b,plus,566255,
+NC_007123.7,25950834,26022663,bmpr1ab,minus,447846,"bone morphogenetic protein receptor, type IAb"
+NC_007123.7,26025051,26064510,ldb3b,minus,334100,LIM domain binding 3b
+NC_007123.7,26084171,26153564,opn4b,minus,100884131,opsin 4b
+NC_007123.7,26193517,26383255,usp54b,minus,100535699,
+NC_007123.7,26385246,26408876,myoz1b,minus,436720,myozenin 1b
+NC_007123.7,26409421,26430494,synpo2lb,minus,100001241,
+NC_007123.7,26436104,26461744,itgb3b,plus,100001836,integrin beta 3b
+NC_007123.7,26467821,26487363,ndel1a,plus,394244,nudE neurodevelopment protein 1-like 1a
+NC_007123.7,26489367,26491455,si:dkey-287g12.6,minus,100334236,
+NC_007123.7,26491642,26494851,armc7,plus,767659,armadillo repeat containing 7
+NC_007123.7,26497166,26537996,acsf2,minus,751707,acyl-CoA synthetase family member 2
+NC_007123.7,26512569,26525699,chad,plus,394038,chondroadherin
+NC_007123.7,26538762,26547031,si:dkey-57h18.1,plus,100001169,
+NC_007123.7,26543502,26559721,si:dkey-57h18.2,minus,556826,
+NC_007123.7,26566453,26587602,slc16a5a,minus,565514,
+NC_007123.7,26594083,26609347,kctd2,minus,751724,potassium channel tetramerization domain containing 2
+NC_007123.7,26608881,26611971,LOC110440143,plus,110440143,
+NC_007123.7,26611426,26620728,hexdc,minus,565372,"hexosaminidase (glycosyl hydrolase family 20, catalytic domain) containing"
+NC_007123.7,26622013,26725953,arhgap12b,plus,393848,Rho GTPase activating protein 12b
+NC_007123.7,26750268,26851726,zeb1b,minus,114425,zinc finger E-box binding homeobox 1b
+NC_007123.7,26877303,26967858,znf438,plus,798757,zinc finger protein 438
+NC_007123.7,27022285,27027027,msl1b,plus,563262,
+NC_007123.7,27027314,27031031,bc2,minus,798901,putative breast adenocarcinoma marker
+NC_007123.7,27034765,27061342,fbrs,plus,100535921,
+NC_007123.7,27061758,27092288,srcap,plus,563456,
+NC_007123.7,27096952,27114836,ttll6,plus,564075,"tubulin tyrosine ligase-like family, member 6"
+NC_007123.7,27111382,27140632,si:busm1-227h09.4p,plus,368838,"si:busm1-227h09.4, pseudogene"
+NC_007123.7,27117609,27120119,hoxb8b,plus,30420,homeobox B8b
+NC_007123.7,27120118,27124147,LOC108191720,minus,108191720,
+NC_007123.7,27124274,27142834,hoxb1b,plus,30374,homeobox B1b
+NC_007123.7,27127058,27128480,hoxb6b,plus,58053,homeobox B6b
+NC_007123.7,27129659,27131735,hoxb5b,plus,58052,homeobox B5b
+NC_007123.7,27134869,27134967,mir10a,plus,100033757,microRNA 10a
+NC_007123.7,27144750,27158468,LOC100535964,minus,100535964,
+NC_007123.7,27156950,27206904,skap1,plus,563784,src kinase associated phosphoprotein 1
+NC_007123.7,27206738,27212835,psme3,minus,30649,proteasome activator subunit 3
+NC_007123.7,27213715,27229860,nbr1a,plus,337168,neighbor of brca1 gene 1a
+NC_007123.7,27231209,27237032,tmem106a,plus,407612,transmembrane protein 106A
+NC_007123.7,27236965,27242506,LOC110440144,minus,110440144,
+NC_007123.7,27243059,27245760,arl4d,plus,323573,ADP-ribosylation factor-like 4D
+NC_007123.7,27285673,27305880,dusp3a,plus,100000665,
+NC_007123.7,27331314,27335659,sost,plus,100000500,
+NC_007123.7,27462105,27468738,meox1,plus,436723,mesenchyme homeobox 1
+NC_007123.7,27536099,27568694,etv4,plus,30700,ets variant 4
+NC_007123.7,27570445,27588348,dhx8,minus,606595,
+NC_007123.7,27589580,27665596,spata20,plus,567862,
+NC_007123.7,27665824,27671582,LOC108191721,minus,108191721,
+NC_007123.7,27703885,28074351,cacna1g,plus,563904,
+NC_007123.7,28117424,28180823,uts2r,plus,559133,
+NC_007123.7,28298302,28311990,LOC110440145,plus,110440145,
+NC_007123.7,28310647,28349026,zgc:195081,minus,559344,zgc:195081
+NC_007123.7,28349844,28363092,psmd11b,minus,322265,"proteasome 26S subunit, non-ATPase 11b"
+NC_007123.7,28367584,28374043,cdk5r1b,plus,436788,"cyclin-dependent kinase 5, regulatory subunit 1b (p35)"
+NC_007123.7,28377745,28537597,si:ch211-94l19.4,minus,559562,
+NC_007123.7,28543042,28550925,LOC100538338,minus,100538338,
+NC_007123.7,28559413,28570984,pdk2a,minus,794083,
+NC_007123.7,28574890,28678322,tbkbp1,plus,559568,
+NC_007123.7,28749189,28770817,tbx21,plus,797797,T-box 21
+NC_007123.7,28773581,28795075,osbpl7,minus,449656,oxysterol binding protein-like 7
+NC_007123.7,28796622,28799631,mrpl10,minus,541330,mitochondrial ribosomal protein L10
+NC_007123.7,28799986,28807181,pnpo,plus,402868,pyridoxamine 5'-phosphate oxidase
+NC_007123.7,28806897,28818840,prr15lb,minus,550400,proline rich 15-like b
+NC_007123.7,28825829,28835143,cdk5rap3,plus,415195,CDK5 regulatory subunit associated protein 3
+NC_007123.7,28839829,28848030,si:ch211-194k22.8,minus,560328,
+NC_007123.7,28854404,28866179,nfe2l1b,plus,558772,"nuclear factor, erythroid 2-like 1b"
+NC_007123.7,28870462,28881693,cbx1b,minus,415180,chromobox homolog 1b (HP1 beta homolog Drosophila)
+NC_007123.7,28888963,28901184,phkg2,plus,393937,"phosphorylase kinase, gamma 2 (testis)"
+NC_007123.7,28900488,28910498,si:ch73-81k8.2,minus,100151516,si:ch73-81k8.2
+NC_007123.7,28910878,28933282,rnf40,plus,798088,ring finger protein 40
+NC_007123.7,28934819,28946523,LOC110438942,plus,110438942,
+NC_007123.7,28946708,28956504,znf646,minus,561201,
+NC_007123.7,28956374,28960627,znf668,plus,797423,zinc finger protein 668
+NC_007123.7,28961304,28963935,si:rp71-1c10.10,plus,100332365,
+NC_007123.7,28964034,28983805,zgc:171713,minus,100124595,zgc:171713
+NC_007123.7,28986309,28988358,si:rp71-1c10.8,plus,100538216,si:rp71-1c10.8
+NC_007123.7,28995942,29012892,valopb,plus,560921,vertebrate ancient long opsin b
+NC_007123.7,29054587,29105531,gabrz,plus,561738,"gamma-aminobutyric acid (GABA) A receptor, zeta"
+NC_007123.7,29115225,29116977,LOC110440146,minus,110440146,
+NC_007123.7,29173500,29209347,adgra1a,plus,560847,
+NC_007123.7,29223276,29234023,si:ch211-214e3.5,minus,798582,
+NC_007123.7,29236279,29237815,mxtx2,plus,58078,mix-type homeobox gene 2
+NC_007123.7,29240119,29271035,bms1,plus,553241,BMS1 ribosome biogenesis factor
+NC_007123.7,29289761,29301778,sh2d4bb,minus,560557,
+NC_007123.7,29350685,29625733,nrg3b,minus,101882495,
+NC_007123.7,29575587,29582126,LOC108191725,plus,108191725,
+NC_007123.7,29763656,29818209,gfra1b,plus,79377,gdnf family receptor alpha 1b
+NC_007123.7,29842954,30032168,atrnl1b,minus,569196,
+NC_007123.7,30036706,30043898,trub1,minus,556642,TruB pseudouridine (psi) synthase family member 1
+NC_007123.7,30046360,30220346,ablim1b,plus,541550,actin binding LIM protein 1b
+NC_007123.7,30234167,30308356,afap1l2,plus,567369,
+NC_007123.7,30254021,30291199,LOC108191726,minus,108191726,
+NC_007123.7,30282709,30284385,LOC101882758,minus,101882758,
+NC_007123.7,30310951,30345434,vwa2,minus,567428,
+NC_007123.7,30345835,30359566,tdrd1,minus,553522,tudor domain containing 1
+NC_007123.7,30360504,30366166,si:ch211-225b10.3,plus,557041,
+NC_007123.7,30367359,30419954,ccdc186,plus,557112,
+NC_007123.7,30435552,30438830,si:ch211-225b10.1,minus,101883197,
+NC_007123.7,30442342,30443562,adrb1,minus,557194,adrenoceptor beta 1
+NC_007123.7,30458409,30500824,nhlrc2,minus,100535163,
+NC_007123.7,30501044,30516111,dclre1a,plus,324964,"DNA cross-link repair 1A (PSO2 homolog, S. cerevisiae)"
+NC_007123.7,30517379,30523324,plekhs1,minus,100136845,"pleckstrin homology domain containing, family S member 1"
+NC_007123.7,30529446,30540699,zgc:153920,minus,768181,zgc:153920
+NC_007123.7,30542661,30548956,zgc:158404,minus,557029,zgc:158404
+NC_007123.7,30550555,30558753,si:ch211-28p3.3,minus,101887138,
+NC_007123.7,30563522,30567779,si:ch211-28p3.4,plus,100536702,
+NC_007123.7,30569619,30583668,casp7,minus,553634,"caspase 7, apoptosis-related cysteine peptidase"
+NC_007123.7,30586591,30617847,nrap,plus,724004,nebulin-related anchoring protein
+NC_007123.7,30652947,30683372,thbs2b,plus,566325,
+NC_007123.7,30705855,30712111,kcnk1a,plus,793480,"potassium channel, subfamily K, member 1a"
+NC_007123.7,30723178,30738034,slc35f3a,plus,572019,"solute carrier family 35, member F3a"
+NC_007123.7,30740783,30777730,entpd1,minus,445151,ectonucleoside triphosphate diphosphohydrolase 1
+NC_007123.7,30788885,30808933,aldh18a1,plus,557186,"aldehyde dehydrogenase 18 family, member A1"
+NC_007123.7,30838167,30841643,crygmx,minus,335789,"crystallin, gamma MX"
+NC_007123.7,30842677,30846055,crygmxl2,minus,554132,"crystallin, gamma MX, like 2"
+NC_007123.7,30877650,30885865,LOC110440147,minus,110440147,
+NC_007123.7,30981684,31103187,tcf7l2,minus,30510,"transcription factor 7-like 2 (T-cell specific, HMG-box)"
+NC_007123.7,31158690,31422536,vti1a,minus,567385,vesicle transport through interaction with t-SNAREs 1A
+NC_007123.7,31422540,31438582,zdhhc6,plus,324468,"zinc finger, DHHC-type containing 6"
+NC_007123.7,31439596,31457293,acsl5,minus,447860,acyl-CoA synthetase long-chain family member 5
+NC_007123.7,31460656,31476518,gucy2g,plus,100333350,
+NC_007123.7,31476169,31484832,tectb,minus,494051,tectorin beta
+NC_007123.7,31494783,31537332,gpam,plus,100332911,
+NC_007123.7,31551111,31556205,LOC101882564,plus,101882564,
+NC_007123.7,31616515,31631297,cpn1,plus,337172,"carboxypeptidase N, polypeptide 1"
+NC_007123.7,31638100,31710290,dnmbp,plus,100005174,
+NC_007123.7,31713230,31719814,habp2,plus,553472,hyaluronan binding protein 2
+NC_007123.7,31720670,31724411,srsf2a,minus,406691,serine/arginine-rich splicing factor 2a
+NC_007123.7,31729455,31768019,si:dkey-49c17.3,plus,555415,
+NC_007123.7,31783145,31787861,lrrc59,plus,405868,leucine rich repeat containing 59
+NC_007123.7,31789169,31794966,nat9,minus,326898,"N-acetyltransferase 9 (GCN5-related, putative)"
+NC_007123.7,31909346,32014613,grin2cb,minus,100333648,
+NC_007123.7,31916943,31917052,mir2196,plus,100310759,microRNA 2196
+NC_007123.7,32039177,32066470,rab40b,minus,436797,"RAB40B, member RAS oncogene family"
+NC_007123.7,32068293,32073627,cox11,minus,100005158,cytochrome c oxidase assembly homolog 11 (yeast)
+NC_007123.7,32077825,32146028,stxbp4,plus,567916,
+NC_007123.7,32159217,32169270,hlfb,plus,557886,hepatic leukemia factor b
+NC_007123.7,32179210,32183400,si:ch73-256g18.2,minus,557975,
+NC_007123.7,32186094,32189039,tmem100b,minus,100004911,
+NC_007123.7,32191733,32374814,si:ch211-277e21.2,plus,100333998,
+NC_007123.7,32389183,32389854,nog3,plus,30173,noggin 3
+NC_007123.7,32413524,32421018,enpp7.1,minus,557756,"ectonucleotide pyrophosphatase/phosphodiesterase 7, tandem duplicate 1"
+NC_007123.7,32423375,32426685,enpp7.2,minus,557817,"ectonucleotide pyrophosphatase/phosphodiesterase 7, tandem duplicate 2"
+NC_007123.7,32501498,33248209,rbfox3a,plus,100538330,
+NC_007123.7,33297572,33315002,c1qtnf1,minus,550573,C1q and TNF related 1
+NC_007123.7,33320537,33336787,csnk1db,plus,406533,"casein kinase 1, delta b"
+NC_007123.7,33346049,33349018,LOC101884685,minus,101884685,
+NC_007123.7,33350256,33359756,slc16a3,minus,327276,"solute carrier family 16 (monocarboxylate transporter), member 3"
+NC_007123.7,33362051,33392212,ccdc57,plus,100318317,coiled-coil domain containing 57
+NC_007123.7,33394916,33450514,fasn,plus,559001,
+NC_007123.7,33452915,33459494,zgc:91940,minus,436942,zgc:91940
+NC_007123.7,33460811,33473928,narf,plus,436614,nuclear prelamin A recognition factor
+NC_007123.7,33484444,33537126,slc9a3r1a,plus,327272,"solute carrier family 9, subfamily A (NHE3, cation proton antiporter 3), member 3 regulator 1a"
+NC_007123.7,33538681,33558891,mbtd1,minus,568340,
+NC_007123.7,33561417,33582385,tdrkh,minus,541541,tudor and KH domain containing
+NC_007123.7,33598399,33659359,tmem94,minus,795408,
+NC_007123.7,33661649,33714846,myo15b,minus,795537,
+NC_007123.7,33730283,33733973,LOC110438943,minus,110438943,
+NC_007123.7,33738361,33789001,llgl2,minus,795670,lethal giant larvae homolog 2 (Drosophila)
+NC_007123.7,33790121,33805337,galk1,minus,449829,galactokinase 1
+NC_007123.7,33806337,33817124,peo1,minus,100330448,progressive external ophthalmoplegia 1
+NC_007123.7,33817347,33819096,mrpl43,plus,436701,mitochondrial ribosomal protein L43
+NC_007123.7,33831831,33893598,sema4gb,minus,100534852,
+NC_007123.7,33894483,33915124,mfsd13a,plus,494111,major facilitator superfamily domain containing 13A
+NC_007123.7,33919500,33935522,trim8b,plus,559967,tripartite motif containing 8b
+NC_007123.7,33966419,33972782,arl3,minus,797451,ADP-ribosylation factor-like 3
+NC_007123.7,33975123,33988890,sfxn2,plus,334757,sideroflexin 2
+NC_007123.7,33990947,34035310,timp2a,minus,359835,TIMP metallopeptidase inhibitor 2a
+NC_007123.7,34073876,34192965,cyth1b,plus,325586,cytohesin 1b
+NC_007123.7,34198040,34258109,pgs1,minus,100534896,
+NC_007123.7,34235390,34239533,LOC108191731,plus,108191731,
+NC_007123.7,34273346,34277465,socs3b,plus,406596,suppressor of cytokine signaling 3b
+NC_007123.7,34353109,34397751,tha1,plus,431723,threonine aldolase 1
+NC_007123.7,34416187,34427878,tmem235,minus,100150722,
+NC_007123.7,34429702,34435337,birc5a,minus,373110,baculoviral IAP repeat containing 5a
+NC_007123.7,34439254,34458662,fscn2b,minus,393743,"fascin actin-bundling protein 2b, retinal"
+NC_007123.7,34459729,34470605,LOC103911938,plus,103911938,
+NC_007123.7,34563163,34722476,bahcc1b,minus,794333,
+NC_007123.7,34763768,34822827,slc38a10,plus,561739,
+NC_007123.7,34825062,34827477,si:dkey-21c1.6,minus,386981,si:dkey-21c1.6
+NC_007123.7,34827535,34842348,enthd2,plus,100148088,
+NC_007123.7,34847629,34852342,si:dkey-21c1.1,minus,100150256,si:dkey-21c1.1
+NC_007123.7,34851666,34870089,si:dkey-21c1.4,plus,100151186,
+NC_007123.7,34875787,34888750,bicral,minus,559084,
+NC_007123.7,34891576,34892827,tbcc,plus,553378,tubulin folding cofactor C
+NC_007123.7,34897007,34901874,prph2a,plus,58085,"peripherin 2a (retinal degeneration, slow)"
+NC_007123.7,34953072,35023266,qki2,plus,393815,"QKI, KH domain containing, RNA binding 2"
+NC_007123.7,35046539,35051441,timm23a,plus,798429,translocase of inner mitochondrial membrane 23 homolog a (yeast)
+NC_007123.7,35051665,35054357,zgc:112285,minus,561476,zgc:112285
+NC_007123.7,35057654,35067936,LOC798089,minus,798089,
+NC_007123.7,35067956,35085328,syt15,plus,798021,
+NC_007123.7,35086825,35096065,si:dkey-21e13.3,minus,100150043,si:dkey-21e13.3
+NC_007123.7,35098915,35105705,si:ch73-127m5.2,minus,561202,si:ch73-127m5.2
+NC_007123.7,35119642,35195521,si:ch73-127m5.1,plus,799158,
+NC_007123.7,35185289,35186847,LOC101885436,minus,101885436,
+NC_007123.7,35203050,35340120,ndst2b,plus,798226,
+NC_007123.7,35345824,35505623,camk2g1,minus,791855,calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma 1
+NC_007123.7,35543160,35582528,sec24c,minus,571870,"SEC24 homolog C, COPII coat complex component"
+NC_007123.7,35588064,35594862,chmp6b,plus,445397,charged multivesicular body protein 6b
+NC_007123.7,35606187,35698708,baiap2b,plus,100537012,
+NC_007123.7,35701039,35788275,aatkb,minus,555739,
+NC_007123.7,35710521,35710605,mir338-1,minus,100033713,microRNA 338-1
+NC_007123.7,35812918,35833064,st6galnac,minus,407706,
+NC_007123.7,35836610,35885387,cep131,minus,563066,
+NC_007123.7,35887340,35911301,LOC110440163,minus,110440163,
+NC_007123.7,35914103,35936329,rnf213b,minus,563001,
+NC_007123.7,35936985,35944547,dnai2a,minus,563648,"dynein, axonemal, intermediate chain 2a"
+NC_007123.7,35955878,35976925,nploc4,minus,327447,"NPL4 homolog, ubiquitin recognition factor"
+NC_007123.7,35980523,35988575,pde6g,minus,554700,"phosphodiesterase 6G, cGMP-specific, rod, gamma"
+NC_007123.7,35992923,35997663,oxld1,minus,100001148,
+NC_007123.7,36023230,36045336,gprc5c,minus,563405,"G protein-coupled receptor, class C, group 5, member C"
+NC_007123.7,36054151,36070153,gpr142,minus,100000501,
+NC_007123.7,36092486,36103784,btbd17a,plus,563263,
+NC_007123.7,36109071,36159881,map2k6,plus,65239,mitogen-activated protein kinase kinase 6
+NC_007123.7,36256661,36264450,kcnj2a,minus,564522,"potassium inwardly-rectifying channel, subfamily J, member 2a"
+NC_007123.7,36266950,36281189,kcnj16,minus,100001432,
+NC_007123.7,36392251,36397316,LOC110438944,plus,110438944,
+NC_007123.7,36413719,36427595,si:ch211-250n8.1,plus,100001306,
+NC_007123.7,36428052,36471946,unk,plus,393205,unkempt family zinc finger
+NC_007123.7,36474560,36518448,unc13d,minus,564076,
+NC_007123.7,36523410,36533696,fbxw10,plus,563998,
+NC_007123.7,36671159,36740276,si:ch211-216b21.2,minus,100329339,
+NC_007123.7,36785727,36786748,LOC110440148,minus,110440148,
+NC_007123.7,36786738,36788009,LOC101884019,minus,101884019,
+NC_007123.7,36833179,36852298,LOC101884157,plus,101884157,
+NC_007123.7,36834718,36839302,LOC108179108,plus,108179108,
+NC_007123.7,36860222,36884797,LOC100537721,plus,100537721,
+NC_007123.7,36891483,36960525,cox10,plus,553384,COX10 heme A:farnesyltransferase cytochrome c oxidase assembly factor
+NC_007123.7,36971983,37002188,hs3st3b1b,plus,558084,heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1b
+NC_007123.7,37253602,37271220,LOC108191741,plus,108191741,
+NC_007123.7,37275333,37299671,pmp22b,minus,678607,peripheral myelin protein 22b
+NC_007123.7,37327860,37344026,tekt3,minus,572368,
+NC_007123.7,37401438,37405051,si:ch211-152f22.4,plus,101884418,
+NC_007123.7,37408816,37449470,cdc42ep4b,minus,100002938,
+NC_007123.7,37462166,38096531,sdk2b,minus,564922,
+NC_007123.7,38131648,38134221,LOC101884792,plus,101884792,
+NC_007123.7,38519990,38527390,si:dkey-264b2.3,minus,100150025,
+NC_007123.7,38556491,38561296,rpl38,plus,436759,ribosomal protein L38
+NC_007123.7,38563043,38688031,ttyh2,plus,436763,tweety family member 2
+NC_007123.7,38693505,38712197,dnai2b,plus,101884977,
+NC_007123.7,38715822,38805395,kif19,plus,565913,
+NC_007123.7,38807536,38855965,abca5,plus,100151075,"ATP-binding cassette, sub-family A (ABC1), member 5"
+NC_007123.7,38878830,38974878,si:ch211-39f2.3,plus,100330672,
+NC_007123.7,38886938,38913464,LOC110437733,plus,110437733,
+NC_007123.7,38980945,39031733,si:ch73-181m17.1,plus,100330610,
+NC_007123.7,39033967,39059705,si:dkey-239b22.2,plus,100005128,
+NC_007123.7,39444184,39445557,LOC108191800,minus,108191800,
+NC_007123.7,39445637,39448110,LOC101885636,minus,101885636,
+NC_007123.7,39670496,39770729,LOC100534755,plus,100534755,
+NC_007123.7,40206269,40519108,LOC570372,plus,570372,
+NC_007123.7,40523556,40524695,LOC110440165,plus,110440165,
+NC_007123.7,40688938,41113788,LOC101886358,plus,101886358,
+NC_007123.7,41349658,41369521,si:ch211-27e6.1,plus,566628,
+NC_007123.7,41377134,41377207,trnat-ugu,minus,108191845,
+NC_007123.7,41377421,41377509,trnar-ucu,minus,108191856,
+NC_007123.7,41377622,41377695,trnat-agu,minus,108191867,
+NC_007123.7,41377908,41377996,trnar-ucu,minus,108191878,
+NC_007123.7,41378082,41378155,trnat-ugu,minus,108191887,
+NC_007123.7,41378368,41378456,trnar-ucu,minus,108191888,
+NC_007123.7,41378541,41378614,trnat-agu,minus,108191889,
+NC_007123.7,41378985,41379058,trnat-ugu,minus,108191891,
+NC_007123.7,41379271,41379359,trnar-ucu,minus,108191892,
+NC_007123.7,41379444,41379517,trnat-agu,minus,108191893,
+NC_007123.7,41379888,41379961,trnat-ugu,minus,108191894,
+NC_007123.7,41380175,41380263,trnar-ucu,minus,108191895,
+NC_007123.7,41380809,41380882,trnat-ugu,minus,108191896,
+NC_007123.7,41381096,41381184,trnar-ucu,minus,108191897,
+NC_007123.7,41381269,41381342,trnat-agu,minus,108191898,
+NC_007123.7,41381556,41381644,trnar-ucu,minus,108191899,
+NC_007123.7,41381729,41381802,trnat-agu,minus,108191900,
+NC_007123.7,41382016,41382104,trnar-ucu,minus,108191902,
+NC_007123.7,41382190,41382263,trnat-agu,minus,108191903,
+NC_007123.7,41382650,41382723,trnat-ugu,minus,108191904,
+NC_007123.7,41383109,41383182,trnat-ugu,minus,108191905,
+NC_007123.7,41383391,41383479,trnar-ucu,minus,108191906,
+NC_007123.7,41383564,41383637,trnat-agu,minus,108191907,
+NC_007123.7,41383850,41383938,trnar-ucu,minus,108191908,
+NC_007123.7,41384024,41384097,trnat-ugu,minus,108191909,
+NC_007123.7,41384310,41384398,trnar-ucu,minus,108191910,
+NC_007123.7,41384483,41384556,trnat-agu,minus,108191911,
+NC_007123.7,41384769,41384857,trnar-ucu,minus,108191913,
+NC_007123.7,41384942,41385015,trnat-agu,minus,108191914,
+NC_007123.7,41385229,41385317,trnar-ucu,minus,108191915,
+NC_007123.7,41385403,41385476,trnat-agu,minus,108191916,
+NC_007123.7,41385863,41385936,trnat-ugu,minus,108191917,
+NC_007123.7,41386115,41386203,trnar-ucu,minus,108191918,
+NC_007123.7,41386289,41386362,trnat-agu,minus,108191919,
+NC_007123.7,41386576,41386664,trnar-ucu,minus,108191920,
+NC_007123.7,41386750,41386823,trnat-agu,minus,108191921,
+NC_007123.7,41387210,41387283,trnat-ugu,minus,108191922,
+NC_007123.7,41387496,41387584,trnar-ucu,minus,108191924,
+NC_007123.7,41387669,41387742,trnat-agu,minus,108191925,
+NC_007123.7,41388129,41388202,trnat-ugu,minus,108191926,
+NC_007123.7,41388585,41388658,trnat-agu,minus,108191927,
+NC_007123.7,41389045,41389118,trnat-agu,minus,108191928,
+NC_007123.7,41389332,41389420,trnar-ucu,minus,108191807,
+NC_007123.7,41389506,41389579,trnat-agu,minus,108191808,
+NC_007123.7,41389789,41389877,trnar-ucu,minus,108191809,
+NC_007123.7,41389962,41390035,trnat-agu,minus,108191810,
+NC_007123.7,41390422,41390495,trnat-ugu,minus,108191811,
+NC_007123.7,41390705,41390793,trnar-ucu,minus,108191813,
+NC_007123.7,41390878,41390951,trnat-agu,minus,108191814,
+NC_007123.7,41391338,41391411,trnat-ugu,minus,108191815,
+NC_007123.7,41391625,41391713,trnar-ucu,minus,108191816,
+NC_007123.7,41391799,41391872,trnat-agu,minus,108191817,
+NC_007123.7,41392086,41392174,trnar-ucu,minus,108191818,
+NC_007123.7,41392260,41392333,trnat-agu,minus,108191819,
+NC_007123.7,41392545,41392633,trnar-ucu,minus,108191820,
+NC_007123.7,41392718,41392791,trnat-agu,minus,108191821,
+NC_007123.7,41393003,41393091,trnar-ucu,minus,108191822,
+NC_007123.7,41393177,41393250,trnat-agu,minus,108191824,
+NC_007123.7,41393637,41393710,trnat-ugu,minus,108191825,
+NC_007123.7,41393923,41394011,trnar-ucu,minus,108191826,
+NC_007123.7,41394097,41394170,trnat-ugu,minus,108191827,
+NC_007123.7,41394383,41394471,trnar-ucu,minus,108191828,
+NC_007123.7,41394557,41394630,trnat-ugu,minus,108191829,
+NC_007123.7,41394840,41394928,trnar-ucu,minus,108191830,
+NC_007123.7,41395013,41395086,trnat-agu,minus,108191831,
+NC_007123.7,41395300,41395388,trnar-ucu,minus,108191832,
+NC_007123.7,41395474,41395547,trnat-agu,minus,108191833,
+NC_007123.7,41395934,41396007,trnat-ugu,minus,108191835,
+NC_007123.7,41396220,41396308,trnar-ucu,minus,108191836,
+NC_007123.7,41396394,41396467,trnat-agu,minus,108191837,
+NC_007123.7,41396680,41396768,trnar-ucu,minus,108191838,
+NC_007123.7,41396854,41396927,trnat-agu,minus,108191839,
+NC_007123.7,41397141,41397229,trnar-ucu,minus,108191840,
+NC_007123.7,41397315,41397388,trnat-agu,minus,108191841,
+NC_007123.7,41397773,41397846,trnat-agu,minus,108191842,
+NC_007123.7,41398057,41398145,trnar-ucu,minus,108191843,
+NC_007123.7,41398231,41398304,trnat-agu,minus,108191844,
+NC_007123.7,41398690,41398763,trnat-agu,minus,108191846,
+NC_007123.7,41398976,41399064,trnar-ucu,minus,108191847,
+NC_007123.7,41399149,41399222,trnat-agu,minus,108191848,
+NC_007123.7,41399436,41399524,trnar-ucu,minus,108191849,
+NC_007123.7,41399610,41399683,trnat-ugu,minus,108191850,
+NC_007123.7,41399896,41399984,trnar-ucu,minus,108191851,
+NC_007123.7,41400069,41400142,trnat-agu,minus,108191852,
+NC_007123.7,41400355,41400443,trnar-ucu,minus,108191853,
+NC_007123.7,41400529,41400602,trnat-ugu,minus,108191854,
+NC_007123.7,41400815,41400903,trnar-ucu,minus,108191855,
+NC_007123.7,41400988,41401061,trnat-agu,minus,108191857,
+NC_007123.7,41401274,41401362,trnar-ucu,minus,108191858,
+NC_007123.7,41401448,41401521,trnat-ugu,minus,108191859,
+NC_007123.7,41401734,41401822,trnar-ucu,minus,108191860,
+NC_007123.7,41401907,41401980,trnat-agu,minus,108191861,
+NC_007123.7,41402193,41402281,trnar-ucu,minus,108191862,
+NC_007123.7,41402367,41402440,trnat-ugu,minus,108191863,
+NC_007123.7,41402653,41402741,trnar-ucu,minus,108191864,
+NC_007123.7,41402826,41402899,trnat-agu,minus,108191865,
+NC_007123.7,41403113,41403201,trnar-ucu,minus,108191866,
+NC_007123.7,41403287,41403360,trnat-agu,minus,108191868,
+NC_007123.7,41403747,41403820,trnat-ugu,minus,108191869,
+NC_007123.7,41404033,41404121,trnar-ucu,minus,108191870,
+NC_007123.7,41404207,41404280,trnat-ugu,minus,108191871,
+NC_007123.7,41404493,41404581,trnar-ucu,minus,108191872,
+NC_007123.7,41404666,41404739,trnat-agu,minus,108191873,
+NC_007123.7,41404952,41405040,trnar-ucu,minus,108191874,
+NC_007123.7,41405125,41405198,trnat-agu,minus,108191875,
+NC_007123.7,41405412,41405500,trnar-ucu,minus,108191876,
+NC_007123.7,41405586,41405659,trnat-agu,minus,108191877,
+NC_007123.7,41406046,41406119,trnat-ugu,minus,108191879,
+NC_007123.7,41406471,41406544,trnat-agu,minus,108191880,
+NC_007123.7,41406931,41407004,trnat-ugu,minus,108191881,
+NC_007123.7,41407218,41407306,trnar-ucu,minus,108191882,
+NC_007123.7,41407392,41407465,trnat-agu,minus,108191883,
+NC_007123.7,41407852,41407925,trnat-ugu,minus,108191884,
+NC_007123.7,41408138,41408226,trnar-ucu,minus,108191885,
+NC_007123.7,41408311,41408384,trnat-agu,minus,108191886,
+NC_007123.7,41413582,41470442,epc1a,plus,566686,
+NC_007123.7,41510655,41556041,kif5bb,plus,334108,
+NC_007123.7,41563881,41576994,LOC100334340,plus,100334340,
+NC_007123.7,41582614,41623133,dpysl4,minus,553411,dihydropyrimidinase-like 4
+NC_007123.7,41631627,41696054,jakmip3,minus,100334213,
+NC_007123.7,41697901,41711955,bnip3,plus,336116,BCL2/adenovirus E1B interacting protein 3
+NC_007123.7,41723040,41759686,ppp2r2d,minus,405816,"protein phosphatase 2, regulatory subunit B, delta"
+NC_007123.7,41957578,41959374,LOC103911943,plus,103911943,
+NC_007123.7,41991648,42196298,tcerg1l,plus,110437752,
+NC_007123.7,42364157,42369470,zgc:111868,minus,556628,
+NC_007123.7,42369566,42396927,glrx3,minus,449777,glutaredoxin 3
+NC_007123.7,42400247,42405064,si:ch211-221j21.3,plus,567624,
+NC_007123.7,42435792,42579480,ebf3a,plus,567751,early B-cell factor 3a
+NC_007123.7,42784258,42874694,LOC110440149,plus,110440149,
+NC_007123.7,43164405,43173751,LOC110440150,minus,110440150,
+NC_007123.7,43376474,43576421,ptprea,minus,100499203,
+NC_007123.7,43517301,43525110,LOC101886044,plus,101886044,
+NC_007123.7,43586124,43597717,clrn3,plus,100000502,
+NC_007123.7,43662978,43664682,foxi1,minus,353313,forkhead box i1
+NC_007123.7,43669293,43685798,zgc:112964,minus,503764,zgc:112964
+NC_007123.7,43689721,43696240,LOC100536599,minus,100536599,
+NC_007123.7,43705748,43717692,si:ch73-329n5.6,minus,101883339,
+NC_007123.7,43727410,43735726,LOC101882112,minus,101882112,
+NC_007123.7,43772259,43777070,LOC101883761,minus,101883761,
+NC_007123.7,43784533,43786103,LOC103911946,plus,103911946,
+NC_007123.7,43792391,43795588,LOC110440154,minus,110440154,
+NC_007123.7,43796667,43798598,LOC110440128,minus,110440128,
+NC_007123.7,43811324,43822454,LOC101882496,minus,101882496,
+NC_007123.7,43853126,43853950,LOC110440151,minus,110440151,
+NC_007123.7,43853994,43864418,LOC108191746,minus,108191746,
+NC_007123.7,43881600,43892916,LOC101883283,minus,101883283,
+NC_007123.7,43921195,43924263,LOC110440152,minus,110440152,
+NC_007123.7,43965502,43993211,LOC100332535,minus,100332535,
+NC_007123.7,43975367,43976847,LOC103911947,minus,103911947,
+NC_007123.7,44006570,44019590,LOC101882968,minus,101882968,
+NC_007123.7,44021884,44022580,LOC110440129,minus,110440129,
+NC_007123.7,44024068,44029063,LOC110440153,minus,110440153,
+NC_007123.7,44039995,44049029,si:ch211-182p11.1,minus,101887112,
+NC_007123.7,44063821,44072476,LOC108179106,minus,108179106,
+NC_007123.7,44084207,44091401,LOC110440130,minus,110440130,
+NC_007123.7,44091631,44106335,LOC110440131,minus,110440131,
+NC_007123.7,44106348,44111016,LOC100002054,minus,100002054,
+NC_007123.7,44120816,44126293,si:ch211-127b16.6,minus,108191774,
+NC_007123.7,44134965,44147421,LOC571499,minus,571499,
+NC_007123.7,44151221,44154144,LOC108191775,minus,108191775,
+NC_007123.7,44162610,44170310,LOC103911950,minus,103911950,
+NC_007123.7,44187952,44196019,LOC108179152,minus,108179152,
+NC_007123.7,44198289,44199255,si:dkey-86k10.1,minus,100148026,
+NC_007123.7,44210330,44224433,LOC101886880,minus,101886880,
+NC_007123.7,44232301,44234909,LOC110440132,minus,110440132,
+NC_007123.7,44234917,44238593,LOC110440155,minus,110440155,
+NC_007123.7,44246359,44249246,LOC101886691,minus,101886691,
+NC_007123.7,44255037,44256882,LOC110440133,plus,110440133,
+NC_007123.7,44287791,44321099,LOC100536083,minus,100536083,
+NC_007123.7,44362681,44821797,dock1,minus,572187,dedicator of cytokinesis 1
+NC_007123.7,44610733,44656983,fam196a,plus,100333552,
+NC_007123.7,44846458,44896875,si:ch211-232h12.2,plus,100003025,
+NC_007123.7,44910612,45119528,adam12,plus,101884222,
+NC_007123.7,45132471,45149620,fank1,minus,100005699,
+NC_007123.7,45150667,45189108,dhx32a,plus,100006246,DEAH (Asp-Glu-Ala-His) box polypeptide 32a
+NC_007123.7,45173153,45182060,LOC101885582,minus,101885582,
+NC_007123.7,45189014,45196397,bccip,minus,541348,BRCA2 and CDKN1A interacting protein
+NC_007123.7,45200744,45218478,wbp2,plus,553565,WW domain binding protein 2
+NC_007123.7,45224857,45238224,trim65,minus,100149099,
+NC_007123.7,45238243,45257212,mrpl38,plus,405881,mitochondrial ribosomal protein L38
+NC_007123.7,45263179,45304938,fdxr,minus,100536115,
+NC_007123.7,45339581,45349913,LOC100332446,minus,100332446,uncharacterized LOC100332446
+NC_007123.7,45419482,45431681,LOC100535892,minus,100535892,
+NC_007123.7,45492932,45502292,LOC562542,minus,562542,uncharacterized LOC562542
+NC_007123.7,45511614,45533337,LOC101886286,minus,101886286,
+NC_007123.7,45576973,45657996,LOC103911953,minus,103911953,
+NC_007123.7,45661810,45668967,fbxl15,minus,405878,F-box and leucine-rich repeat protein 15
+NC_007123.7,45673140,45674696,LOC103911954,plus,103911954,
+NC_007123.7,45677241,45688595,si:ch73-111m19.2,plus,794084,si:ch73-111m19.2
+NC_007123.7,45799982,45876387,pax2b,minus,60638,paired box 2b
+NC_007123.7,45899767,45901577,LOC103911951,minus,103911951,
+NC_007123.7,46004154,46011743,LOC101886598,minus,101886598,
+NC_007123.7,46046349,46058837,LOC108191751,minus,108191751,
+NC_007123.7,46066193,46090753,LOC100005948,minus,100005948,
+NC_007123.7,46092989,46112683,LOC108179107,minus,108179107,
+NC_007123.7,46120441,46145953,zgc:153932,minus,100009638,zgc:153932
+NC_007123.7,46152862,46197737,LOC108179123,minus,108179123,
+NC_007123.7,46188317,46205059,LOC100005723,minus,100005723,
+NC_007123.7,46209863,46219663,LOC100005685,minus,100005685,
+NC_007123.7,46219689,46220650,LOC110440157,minus,110440157,
+NC_007123.7,46220685,46225314,LOC110440134,minus,110440134,
+NC_007123.7,46231789,46282271,LOC108191777,minus,108191777,
+NC_007123.7,46264190,46269808,LOC108191778,minus,108191778,
+NC_007123.7,46272592,46276115,LOC110440156,minus,110440156,
+NC_007123.7,46283510,46359411,zmp:0000001031,minus,568241,
+NC_007123.7,46315653,46315930,LOC110440158,minus,110440158,
+NC_007123.7,46363986,46379733,LOC568930,minus,568930,
+NC_007123.7,46386983,46391269,LOC100005356,plus,100005356,legumain
+NC_007123.7,46404209,46408641,LOC569153,plus,569153,
+NC_007123.7,46425706,46430189,LOC100005266,plus,100005266,
+NC_007123.7,46427993,46432484,LOC108191760,minus,108191760,
+NC_007123.7,46443379,46447835,LOC100005220,plus,100005220,
+NC_007123.7,46445623,46450152,LOC108191757,minus,108191757,
+NC_007123.7,46461991,46466479,LOC100005175,plus,100005175,
+NC_007123.7,46483511,46488076,LOC100005129,plus,100005129,
+NC_007123.7,46512679,46517276,LOC103911956,plus,103911956,
+NC_007123.7,46535793,46540175,LOC108191752,plus,108191752,
+NC_007123.7,46543572,46579928,hid1b,plus,437012,HID1 domain containing b
+NC_007123.7,46582559,46598368,ush1gb,plus,557135,
+NC_007123.7,46608662,46628002,fads6,plus,100538024,
+NC_007123.7,46634616,46679478,trim16,plus,568734,tripartite motif containing 16
+NC_007123.7,46683216,46696041,tvp23b,plus,554134,trans-golgi network vesicle protein 23 homolog B (S. cerevisiae)
+NC_007123.7,46696854,46738403,exoc7,plus,406723,exocyst complex component 7
+NC_007123.7,46740584,46763824,plaub,plus,100538108,"plasminogen activator, urokinase b"
+NC_007123.7,46775083,46835940,vclb,plus,100334859,vinculin b
+NC_007123.7,46842395,46868003,adkb,plus,322229,adenosine kinase b
+NC_007123.7,46869282,46881002,hpdl,plus,560428,4-hydroxyphenylpyruvate dioxygenase-like
+NC_007123.7,46883761,46937956,fam53b,plus,406586,"family with sequence similarity 53, member B"
+NC_007123.7,46950584,46959992,lhpp,minus,100073345,phospholysine phosphohistidine inorganic pyrophosphate phosphatase
+NC_007123.7,46960553,46986628,oat,plus,572518,ornithine aminotransferase
+NC_007123.7,47051217,47072320,zranb1a,plus,334230,
+NC_007123.7,47081695,47116074,mtr,plus,378847,5-methyltetrahydrofolate-homocysteine methyltransferase
+NC_007123.7,47117825,47364956,ryr2a,plus,100126126,
+NC_007123.7,47429417,47430918,chrm3b,plus,100149598,
+NC_007123.7,47446223,47541293,fmn2b,plus,566432,
+NC_007123.7,47542132,47558499,grem2b,minus,550399,"gremlin 2, DAN family BMP antagonist b"
+NC_007123.7,47568077,47631143,rgs7b,minus,100535325,
+NC_007123.7,47638430,47648538,fh,minus,393938,fumarate hydratase
+NC_007123.7,47663395,47670491,hhex,plus,30098,hematopoietically expressed homeobox
+NC_007123.7,47698488,47735186,lzts2b,plus,100005471,
+NC_007123.7,47724591,47772562,pdzd7b,minus,100331399,
+NC_007123.7,47773768,47777630,LOC110440159,minus,110440159,
+NC_007123.7,47778783,47782623,fam213ab,minus,767744,"family with sequence similarity 213, member Ab"
+NC_007123.7,47783812,47793859,dydc2,minus,100000753,DPY30 domain containing 2
+NC_007123.7,47794866,47862432,polr3a,plus,572258,polymerase (RNA) III (DNA directed) polypeptide A
+NC_007123.7,47871526,47899750,qrfprb,minus,101886159,
+NC_007123.7,47907209,47928836,tbata,plus,557892,
+NC_007123.7,47945437,47960043,LOC100331467,plus,100331467,
+NC_007123.7,47965843,48076211,LOC101886422,minus,101886422,
+NC_007123.7,48094019,48199036,pald1a,minus,368369,"phosphatase domain containing, paladin 1a"
+NC_007123.7,48204979,48212734,ndr2,plus,30292,nodal-related 2
+NC_007123.7,48214556,48240134,lrrc20,plus,492485,leucine rich repeat containing 20
+NC_007123.7,48241822,48267595,ppa1a,plus,393706,pyrophosphatase (inorganic) 1a
+NC_007123.7,48271449,48284818,sar1aa,plus,100332314,
+NC_007123.7,48307111,48318987,ascc1,minus,550273,activating signal cointegrator 1 complex subunit 1
+NC_007123.7,48319136,48327600,anapc16,plus,550576,anaphase promoting complex subunit 16
+NC_007123.7,48340112,48342259,ddit4,plus,378866,DNA-damage-inducible transcript 4
+NC_007123.7,48371169,48374720,dnajb12b,minus,100037354,"DnaJ (Hsp40) homolog, subfamily B, member 12b"
+NC_007123.7,48390713,48406198,scd,plus,386661,stearoyl-CoA desaturase (delta-9-desaturase)
+NC_007123.7,48418943,48467791,sec31b,minus,100148383,
+NC_007123.7,48469755,48477013,ndufb8,minus,393829,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8"
+NC_007123.7,48480255,48538630,arhgap44,plus,100333556,
+NC_007123.7,48542998,48554821,tex47,minus,100006770,"chromosome 12 open reading frame, human C7orf62"
+NC_007123.7,48549134,48563665,LOC108191761,plus,108191761,
+NC_007123.7,48559465,48580046,cyp4f3,minus,100037390,"cytochrome P450, family 4, subfamily F, polypeptide 3"
+NC_007123.7,48566699,48572991,LOC108191763,plus,108191763,
+NC_007123.7,48581647,48623484,syde1,plus,568166,
+NC_007123.7,48614320,48671640,zgc:92749,minus,436843,zgc:92749
+NC_007123.7,48631417,48634881,LOC100006699,minus,100006699,
+NC_007123.7,48634927,48656276,zgc:165653,plus,100006671,zgc:165653
+NC_007123.7,48674381,48682752,uros,plus,404731,uroporphyrinogen III synthase
+NC_007123.7,48683208,48697371,mmp21,plus,100003089,matrix metallopeptidase 21
+NC_007123.7,48744016,48795613,ctbp2l,plus,548605,"C-terminal binding protein 2, like"
+NC_007123.7,48774420,48776758,LOC110440135,minus,110440135,
+NC_007123.7,48803094,48811125,ppifb,plus,641328,peptidylprolyl isomerase Fb
+NC_007123.7,48826360,48837296,anxa11b,plus,353365,annexin A11b
+NC_007123.7,48841380,48882931,dlg5b.1,plus,101883945,
+NC_007123.7,48885196,48887493,LOC103911966,plus,103911966,
+NC_007123.7,48897722,49037655,LOC101884790,plus,101884790,
+NC_007123.7,48898810,48943560,kcnma1b,minus,798583,
+NC_007123.7,48958822,48960461,slc18a3b,minus,394082,"solute carrier family 18 (vesicular acetylcholine transporter), member 3b"
+NC_007123.7,48965034,48970458,rgrb,minus,554142,retinal G protein coupled receptor b
+NC_007123.7,48973600,48976764,lrit1b,plus,553432,"leucine-rich repeat, immunoglobulin-like and transmembrane domains 1b"
+NC_007123.7,48978300,48996419,LOC108191765,minus,108191765,
+NC_007123.7,49000313,49033186,ghitm,minus,393563,growth hormone inducible transmembrane protein
+NC_007123.7,49006416,49011149,chst3b,plus,556800,carbohydrate (chondroitin 6) sulfotransferase 3b
+NC_007123.7,49045910,49047978,LOC103910738,minus,103910738,
+NC_007123.7,49090636,49093470,LOC100333251,plus,100333251,
+NC_007123.7,49093193,49100678,LOC100333111,plus,100333111,
+NC_007123.7,49103360,49113628,LOC108191766,minus,108191766,
+NC_007123.7,49110399,49114613,LOC101884692,plus,101884692,
+NC_007123.7,49115165,49117461,LOC100537679,plus,100537679,
+NC_007123.7,49122160,49127552,cpxm2,plus,100333351,
+NC_007123.7,49135774,49145598,si:zfos-911d5.4,plus,101882348,
+NC_007123.7,49146715,49151149,bub3,minus,403012,BUB3 mitotic checkpoint protein
+NC_007123.7,49152889,49154847,hmx3b,minus,108191768,
+NC_007123.7,49157813,49165795,LOC110437777,minus,110437777,
+NC_007123.7,49165859,49168724,LOC103911967,minus,103911967,
+NC_007123.7,49173322,49178912,LOC103911968,plus,103911968,
