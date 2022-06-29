@@ -1,0 +1,3 @@
+protein,accession,location,cDNAs,begin,end,exon_boundary1,exon_boundary2,exon_boundary3,exon_boundary4,exon_boundary5,exon_boundary6,exon_boundary7,exon_boundary8
+TMEM114,NP_001139808.1,"Chromosome: 16; NC_000016.10(8569500..8590511, complement)",NM_001146336.2, 674, 1345, 218,298,435
+TMEM235,NP_001191139.1,Chromosome: 17; NC_000017.11(78231293..78240987),NM_001204210.2,642, 1313, -594,187,267,404,653
