@@ -1,4 +1,4 @@
-# Mylabwork
+# Syntenic block analysis using python
 
 ## Setup
 To run these ipynb, first install python3.
